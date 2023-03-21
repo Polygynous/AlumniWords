@@ -1,0 +1,3 @@
+include ':libsearchspinner'
+include ':app'
+rootProject.name = "AlumniWords"

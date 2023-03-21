@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/triangle_up">
+        <size
+            android:width="10dp"
+            android:height="10dp"/>
+    </item>
+<!--    <item android:state_enabled="true">-->
+<!--        <rotate xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--            android:fromDegrees="135"-->
+<!--            android:toDegrees="0"-->
+<!--            android:pivotX="35%"-->
+<!--            android:pivotY="5%" >-->
+
+<!--            <shape-->
+<!--                android:shape="rectangle" >-->
+<!--                <stroke android:color="#000000" android:width="1dp"/>-->
+<!--                <solid-->
+<!--                    android:color="#000000" />-->
+<!--            </shape>-->
+
+<!--        </rotate>-->
+<!--    </item>-->
+<!--    <item android:state_enabled="false">-->
+<!--        <rotate xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--            android:fromDegrees="225"-->
+<!--            android:toDegrees="0"-->
+<!--            android:pivotX="35%"-->
+<!--            android:pivotY="5%" >-->
+
+<!--            <shape-->
+<!--                android:shape="rectangle" >-->
+<!--                <stroke android:color="#000000" android:width="1dp"/>-->
+<!--                <solid-->
+<!--                    android:color="#000000" />-->
+<!--            </shape>-->
+
+<!--        </rotate>-->
+<!--    </item>-->
+</selector>
